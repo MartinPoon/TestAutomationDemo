@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Loan_Calculate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>425595c2-bf15-4677-85ed-63a6b9c37808</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79c37906-94e8-4a60-8086-2ddaa8a5bafe</id>
+      <masked>false</masked>
+      <name>Principle</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b17bacbf-7760-41e8-8172-7ca0e085a620</id>
+      <masked>false</masked>
+      <name>InterestRate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e89b82ff-e4aa-42c0-bc01-6d6b81a18e2a</id>
+      <masked>false</masked>
+      <name>NumberofMonth</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13a34cb5-04f7-40dd-91f6-f0a179d0bb31</id>
+      <masked>false</masked>
+      <name>Handlingfee</name>
+   </variable>
+</TestCaseEntity>
