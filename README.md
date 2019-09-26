@@ -1,2 +1,0 @@
-# TestAutomationDemo
-Demo Project
